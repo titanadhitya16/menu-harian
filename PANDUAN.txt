@@ -1,0 +1,7 @@
+# Menu Harian
+
+Cara pakai: unggah seluruh isi folder ini ke cabang gh-pages (atau folder docs di cabang utama) repo GitHub Anda, lalu aktifkan Settings > Pages > Source: pilih cabang/folder tadi.
+
+Alamat yang terbentuk: https://<username>.github.io/<nama-repo>/
+
+Catatan: folder ini dibangun khusus untuk alamat /menu-harian/ — jika nama repo Anda bukan "menu-harian", beri tahu Lovable untuk membangun ulang dengan nama repo yang benar.
